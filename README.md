@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I'm Sean, welcome to my Github. 👋
+
+## About me 🔭:
+- I’m currently focusing on Data Science and AI/ML programming
+- I've had experience with software development, mainly **back-end and full-stack** engineering
+- I'm always looking for inspiration and new ideas to implement into projects!
 
 <!--
 **sgspencer2618/sgspencer2618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
