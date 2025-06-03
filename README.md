@@ -11,7 +11,7 @@
 - 🖼️ Flask | Langchain
 - 🔏 SQL | Pinecone | FAISS
 - 📊 Tableau | Excel
-- 🧑‍💻 Deep Learning | RAG
+- 🧑‍💻 Deep Learning | RAG | LLMs
 - ☁️ AWS
 - 🌐 HTML | CSS | Streamlit
 
